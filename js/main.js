@@ -1,7 +1,7 @@
 class main {
    constructor() {
-      const stageWidth = 1200;
-      const stageHeight = 900;
+      const stageWidth = 756;            // 756,630 vs 1200,900
+      const stageHeight = 630;
       this.imageSize = 126;
       this.mArray = []
       this.values = [0,126,252,378,504]
