@@ -1,0 +1,19 @@
+ *,
+ *::after,
+ *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+ }
+
+ ::-webkit-scrollbar {
+    display: none;
+ }
+
+ body {
+   margin-top: 1rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
